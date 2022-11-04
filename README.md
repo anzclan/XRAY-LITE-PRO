@@ -12,22 +12,22 @@
 </p>
 
 ## TESTED OS
-* Debian 9 (work)
-* Ubuntu 18 LTS (work)
-* Ubuntu 20 LTS (work)
-* Ubuntu 22 LTS (work)
+* Debian 9 (work) ✅
+* Ubuntu 18 LTS (work)✅
+* Ubuntu 20 LTS (work)✅
+* Ubuntu 22 LTS (work)✅
 
 ## MANUAL SET
-* Reboot Time (Not Set)
-* Bash Cleaning (Not Set)
-* Cleaning Logs (Not Set)
-* Exp Accound (Set)
+* Reboot Time (Not Set)❌
+* Bash Cleaning (Not Set)❌
+* Cleaning Logs (Not Set)❌
+* Exp Accound (Set)✅
 
 ## PORT INFO
-* NGINX 80 & 443
-* VMESS TLS & GRPC 443 & NON TLS 80
-* VLESS TLS & GRPC 443 & NON TLS 80
-* TROJAN TLS & GRPC 443 & NON TLS 80
+* NGINX 80 & 443✅
+* VMESS TLS & GRPC 443 & NON TLS 80✅
+* VLESS TLS & GRPC 443 & NON TLS 80✅
+* TROJAN TLS & GRPC 443 & NON TLS 80✅
 
 # INSTALL LITE VERSION
 ## STEP 1
