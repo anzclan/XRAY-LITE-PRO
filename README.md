@@ -41,7 +41,7 @@
 * TROJAN GRPC 443 ✅
 * TROJANNON TLS 80 ✅
 
-# INSTALL LITE VERSION
+## INSTALL LITE VERSION
 ## STEP 1
 <pre><code>apt update && apt upgrade -y && apt install curl -y && reboot</code></pre>
 ## STEP 2
