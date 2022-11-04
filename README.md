@@ -23,5 +23,12 @@
 * Admin https://t.me/anzclan
 * Channel https://t.me/dotycat
 
+## TESTED OS
+* Debian 9 (work)
+* Ubuntu 18 LTS (work)
+* Ubuntu 20 LTS (work)
+* Ubuntu 22 LTS (work)
+
+
 ## Our official website
 * www.dotycat.com
