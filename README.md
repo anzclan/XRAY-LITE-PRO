@@ -11,6 +11,11 @@
 <img src="https://raw.githubusercontent.com/anzclan/XRAY-LITE-PRO/main/qq.jpg" />
 </p>
 
+## INFO
+* Full Multiport VPN 443 & 80 INCLUDE NGINX
+* Tested On DigitalOcean VPS
+
+
 ## TESTED OS
 * Debian 9 ✅
 * Ubuntu 18 LTS ✅
