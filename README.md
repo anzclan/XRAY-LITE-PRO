@@ -14,6 +14,7 @@
 ## INFO
 * Full Multiport VPN 443 & 80 INCLUDE NGINX
 * Tested On DigitalOcean VPS
+* Websocket/ws/wss ✅
 
 
 ## TESTED OS
