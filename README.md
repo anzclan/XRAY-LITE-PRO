@@ -24,8 +24,8 @@
 * Ubuntu 22 LTS ✅
 
 ## AUTO CLEAN LOG & KILL BASH
-* Use this code. <pre><code>wget -q -O /usr/local/sbin/clearlogs "https://raw.githubusercontent.com/anzclan/XRAY-LITE-PRO/main/clearlogs.sh" && chmod +x /usr/local/sbin/clearlogs</code></pre>
-* Create Crontab, Use this code <pre><code>{ crontab -l; echo "0 */2 * * * /usr/local/sbin/clearlogs"; } | crontab -</code></pre>
+* Use this code. <pre><code>wget -q -O /usr/local/sbin/clener "https://raw.githubusercontent.com/anzclan/XRAY-LITE-PRO/main/clener.sh" && chmod +x /usr/local/sbin/clener</code></pre>
+* Create Crontab, Use this code <pre><code>{ crontab -l; echo "0 */2 * * * /usr/local/sbin/clener"; } | crontab -</code></pre>
 
 ## MANUAL SET
 * Reboot Time ❌
