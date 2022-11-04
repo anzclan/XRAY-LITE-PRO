@@ -22,6 +22,9 @@
 ## STEP 2
 <pre><code>wget https://raw.githubusercontent.com/anzclan/XRAY-LITE-PRO/main/install.sh && chmod +x install.sh && ./install.sh</code></pre>
 
+## INSTALL KEY
+<pre><code>LITE-VK7JG-NPHTM-C97JM-9MPGT-3V66T</code></pre>
+
 ## Donations
 * Via paypal : noraini96iskandar@gmail.com
 * Admin https://t.me/anzclan
