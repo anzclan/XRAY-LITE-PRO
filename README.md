@@ -17,6 +17,12 @@
 * Ubuntu 20 LTS (work)
 * Ubuntu 22 LTS (work)
 
+## MANUAL SET
+* Reboot Time (Not Set)
+* Bash Cleaning (Not Set)
+* Cleaning Logs (Not Set)
+* Exp Accound (Set)
+
 ## PORT INFO
 * NGINX 80 & 443
 * VMESS TLS & GRPC 443 & NON TLS 80
