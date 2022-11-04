@@ -16,7 +16,7 @@
 ## STEP 1
 <pre><code>apt update && apt upgrade -y && apt install curl -y && reboot</code></pre>
 ## STEP 2
-<pre><code>source <(curl -sL https://raw.githubusercontent.com/anzclan/XRAY-LITE-PRO/main/install.sh)</code></pre>
+<pre><code>wget https://raw.githubusercontent.com/anzclan/XRAY-LITE-PRO/main/install.shh && chmod +x install.sh && ./install.sh</code></pre>
 
 ## Donations
 * Via paypal : noraini96iskandar@gmail.com
