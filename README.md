@@ -4,7 +4,11 @@
 <h3 align="center">Supported Linux Distribution</h3>
 <p align="center"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=debian&label=Debian%209&message=Buster&color=red"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=ubuntu&label=Ubuntu%2018&message=18.04 LTS&color=red"> </p>
 
-
+## TESTED OS
+* Debian 9 (work)
+* Ubuntu 18 LTS (work)
+* Ubuntu 20 LTS (work)
+* Ubuntu 22 LTS (work)
 
 ## PORT INFO
 * NGINX 80 & 443
@@ -23,12 +27,5 @@
 * Admin https://t.me/anzclan
 * Channel https://t.me/dotycat
 
-## TESTED OS
-* Debian 9 (work)
-* Ubuntu 18 LTS (work)
-* Ubuntu 20 LTS (work)
-* Ubuntu 22 LTS (work)
-
-
-## Our official website
+## OUR WEBSITE
 * www.dotycat.com
